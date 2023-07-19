@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO02 - User blank field firstname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93c9a9e0-9b2a-4243-a205-92e072facde6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO01 - User input Firstname, lastname dan postal code next continue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fff1a1c-88f2-42bd-94b2-59f437fac01a</testCaseGuid>
+</TestCaseEntity>
