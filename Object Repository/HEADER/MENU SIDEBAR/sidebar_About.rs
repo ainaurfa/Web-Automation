@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>#about_sidebar_link</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'about_sidebar_link' and @class = 'bm-item menu-item']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c2e10451-8777-4dda-aeb5-f6acdf42e434</webElementGuid>
+      <webElementGuid>b9c75666-7ddc-4e78-8aa7-830e9775dcc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +34,15 @@
       <name>id</name>
       <type>Main</type>
       <value>about_sidebar_link</value>
-      <webElementGuid>b52a5622-e942-449f-9116-479e732795bd</webElementGuid>
+      <webElementGuid>4bed2f4c-c220-4915-ab57-ef859be8f8ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>bm-item menu-item</value>
-      <webElementGuid>ec35e46b-11c0-4327-9848-eaecf568c69a</webElementGuid>
+      <webElementGuid>19531b4a-3fbb-4611-a683-32e21a4bc2a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://saucelabs.com/</value>
-      <webElementGuid>f4e9fb6e-748b-4a4b-9121-adc2c152dfa1</webElementGuid>
+      <webElementGuid>d3963f87-2421-40cf-9ba0-bd5efdf76297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +58,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>897330f9-e34c-443d-a9b6-aa010c034310</webElementGuid>
+      <webElementGuid>7da12067-f3f3-4a05-8368-2b0f2fa2e8f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>About</value>
-      <webElementGuid>54a826e4-2497-4c3e-a45f-8de10d41e0e0</webElementGuid>
+      <webElementGuid>0deead33-4fe2-4034-ad9f-e83b9b495e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;about_sidebar_link&quot;)</value>
-      <webElementGuid>2a6aa66a-e543-497e-9836-76a98fad9880</webElementGuid>
+      <webElementGuid>90260f91-21d1-4847-83aa-7ddd8c067103</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='about_sidebar_link']</value>
-      <webElementGuid>a0ba9395-ae59-4a4e-af39-56b2a5782480</webElementGuid>
+      <webElementGuid>26b65662-34f6-45b8-a0db-1ecf71bc5d46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu_button_container']/div/div[2]/div/nav/a[2]</value>
-      <webElementGuid>4cbf894b-4c3f-4ffe-8e0e-b0ed33876a0d</webElementGuid>
+      <webElementGuid>00057a2b-b640-4f00-bc40-81387766cd1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'About')]</value>
-      <webElementGuid>534073cf-2842-4a88-b3df-e5bc0999dde1</webElementGuid>
+      <webElementGuid>92c96299-5897-4d9f-b791-363b827d6810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[2]</value>
-      <webElementGuid>b779ddfe-ae57-4367-83d7-756d4f65c5a6</webElementGuid>
+      <webElementGuid>0c3edb27-619c-47e1-b91b-9ff19edffc8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::a[3]</value>
-      <webElementGuid>7ae32901-93b4-4b4a-a624-fb05838b45d1</webElementGuid>
+      <webElementGuid>31d374c7-6188-4522-9a68-bc4a164a7080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/preceding::a[3]</value>
-      <webElementGuid>94316075-5f35-4f6d-8ea3-d5b89311790d</webElementGuid>
+      <webElementGuid>777d56b3-2e98-4764-b044-2b3160e283ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='About']/parent::*</value>
-      <webElementGuid>867879d6-6b62-4816-9dac-d44aefecacc7</webElementGuid>
+      <webElementGuid>ff172ec1-fc3c-4898-b3ed-e4eecccd4c92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +138,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://saucelabs.com/')]</value>
-      <webElementGuid>d19d4801-149b-4783-85ea-11b90dff34ff</webElementGuid>
+      <webElementGuid>da91cdaa-e821-4efa-b878-2aa19f69e4db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +146,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>15b5b673-c7d9-4a2d-9007-e84e1cbc7baa</webElementGuid>
+      <webElementGuid>bdcfee29-7115-4b1d-b965-149d06c332b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +154,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'about_sidebar_link' and @href = 'https://saucelabs.com/' and (text() = 'About' or . = 'About')]</value>
-      <webElementGuid>58d80e57-29b1-4a1d-ae39-220691c2df65</webElementGuid>
+      <webElementGuid>3e8c0040-efad-4e1d-862c-bb0743c13a97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

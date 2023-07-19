@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('HEADER/MENU SIDEBAR/Button_Close Menu'))
-
 WebUI.verifyElementVisible(findTestObject('HEADER/MENU SIDEBAR/sidebar_About'))
 
 WebUI.verifyElementVisible(findTestObject('HEADER/MENU SIDEBAR/sidebar_All Items'))

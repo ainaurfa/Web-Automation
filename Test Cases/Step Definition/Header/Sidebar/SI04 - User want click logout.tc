@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SI04 - User want click logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccac71dc-c448-4809-8fc4-0214d763802b</testCaseGuid>
+</TestCaseEntity>
